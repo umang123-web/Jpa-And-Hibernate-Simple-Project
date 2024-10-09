@@ -1,6 +1,6 @@
-package com.in28minutes.springboot.learn_jpa_and_hibernate.course.springdatajpa;
+package com.springboot.learn_jpa_and_hibernate.course.springdatajpa;
 
-import com.in28minutes.springboot.learn_jpa_and_hibernate.course.Course;
+import com.springboot.learn_jpa_and_hibernate.course.Course;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

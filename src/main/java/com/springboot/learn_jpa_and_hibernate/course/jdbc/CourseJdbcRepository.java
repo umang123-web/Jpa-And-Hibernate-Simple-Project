@@ -1,6 +1,6 @@
-package com.in28minutes.springboot.learn_jpa_and_hibernate.course.jdbc;
+package com.springboot.learn_jpa_and_hibernate.course.jdbc;
 
-import com.in28minutes.springboot.learn_jpa_and_hibernate.course.Course;
+import com.springboot.learn_jpa_and_hibernate.course.Course;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

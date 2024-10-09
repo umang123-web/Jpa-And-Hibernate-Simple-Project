@@ -1,7 +1,5 @@
-package com.in28minutes.springboot.learn_jpa_and_hibernate.course;
-import com.in28minutes.springboot.learn_jpa_and_hibernate.course.jdbc.CourseJdbcRepository;
-import com.in28minutes.springboot.learn_jpa_and_hibernate.course.jpa.CourseJPARepository;
-import com.in28minutes.springboot.learn_jpa_and_hibernate.course.springdatajpa.CourseSpringDataJpaRepository;
+package com.springboot.learn_jpa_and_hibernate.course;
+import com.springboot.learn_jpa_and_hibernate.course.springdatajpa.CourseSpringDataJpaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
